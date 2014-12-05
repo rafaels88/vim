@@ -13,14 +13,21 @@ Personal vim configuration using VUNDLE
   ```
 
 
-2. Instal Vundle and all Vim Plugins
+2. Instal Vundle
 
   ```
     mkdir ~/.vim/bundle && cd ~/.vim/bundle
     git clone https://github.com/gmarik/Vundle.vim.git
-    vim +PluginInstall +qall
   ```
 
+3. Vundle Tasks
+
+  ```
+    cd ~/.vim
+    make plugin_install # INSTALL ALL NEW PLUGINS
+    make plugin_update # UPDATE ALL INSTALLED PLUGINS
+    make plugin_clean # REMOVE ALL UNUSED PLUGINS
+  ```
 
 #### Customizing
 
