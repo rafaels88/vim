@@ -20,3 +20,13 @@ Personal vim configuration using VUNDLE
     git clone https://github.com/gmarik/Vundle.vim.git
     vim +PluginInstall +qall
   ```
+
+
+#### Customizing
+
+All custom settings are in seaparate files in ```plugin/settings``` folder.
+
+
+#### To install more plugins
+
+Just add another line in .vimrc file
