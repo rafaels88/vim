@@ -4,7 +4,7 @@
 Personal vim configuration using VUNDLE
 
 #### To use:
-============
+
 
 1) Create a link of .vimrc and .gvimrc to Home directory
 
