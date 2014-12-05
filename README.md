@@ -7,8 +7,10 @@ Personal vim configuration using VUNDLE
 
 1. Create a link of .vimrc and .gvimrc to Home directory
 
-  ln -s ~/.vim/.gvimrc ~/.gvimrc
-  ln -s ~/.vim/.vimrc ~/.vimrc
+  ```
+    ln -s ~/.vim/.gvimrc ~/.gvimrc
+    ln -s ~/.vim/.vimrc ~/.vimrc
+  ```
 
 
 2. Instal Vundle and all Vim Plugins
