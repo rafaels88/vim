@@ -11,7 +11,6 @@ Plugin 'scrooloose/nerdtree' " Files navigator
 Plugin 'ervandew/supertab' " TAB Completion
 Plugin 'skammer/vim-css-color' " Show hexadecimal color for CSS codes
 Plugin 'L9' " General functions and tools
-
 Plugin 'sickill/vim-pasta' " Paste code indented
 
 " Languages
