@@ -5,7 +5,14 @@ Personal vim configuration using VUNDLE
 
 #### To use:
 
-1. Create a link of .vimrc and .gvimrc to Home directory
+1. Clone this project
+
+  ```
+    cd ~/ && git clone https://github.com/rafaels88/vim.git
+    mv ~/vim ~/.vim
+  ```
+
+2. Create a link of .vimrc and .gvimrc to Home directory
 
   ```
     ln -s ~/.vim/.gvimrc ~/.gvimrc
@@ -13,14 +20,14 @@ Personal vim configuration using VUNDLE
   ```
 
 
-2. Instal Vundle
+3. Instal Vundle
 
   ```
     mkdir ~/.vim/bundle && cd ~/.vim/bundle
     git clone https://github.com/gmarik/Vundle.vim.git
   ```
 
-3. Vundle Tasks
+4. Vundle Tasks
 
   ```
     cd ~/.vim
