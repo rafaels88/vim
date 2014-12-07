@@ -3,6 +3,11 @@ VIM Configuration
 
 Personal vim configuration using VUNDLE
 
+#### Plugins list
+
+Take a look inside .vimrc file.
+
+
 #### To use:
 
 1. Clone this project
@@ -18,7 +23,6 @@ Personal vim configuration using VUNDLE
     ln -s ~/.vim/.gvimrc ~/.gvimrc
     ln -s ~/.vim/.vimrc ~/.vimrc
   ```
-
 
 3. Instal Vundle
 
@@ -43,4 +47,4 @@ All custom settings are in seaparate files in ```plugin/settings``` folder.
 
 #### To install more plugins
 
-Just add another line in .vimrc file
+Just add another line in .vimrc file.
