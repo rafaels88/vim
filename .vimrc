@@ -20,16 +20,18 @@ Plugin 'tpope/vim-fugitive' " a Git wrapper so awesome, it should be illegal
 Plugin 'sjl/gundo.vim' " visualize the undolist tree
 Plugin 'terryma/vim-multiple-cursors' " ctrl+d Sublime text selection for VIM
 
-" Languages
-Plugin 'sheerun/vim-polyglot' " All syntax checker
-Plugin 'scrooloose/syntastic' " All languages checker and sidebar errors
-Plugin 'sdanielf/vim-stdtabs' " All languages identation
+" All languages
+Plugin 'sheerun/vim-polyglot' " Syntax checker
+Plugin 'scrooloose/syntastic' " Checker with sidebar errors
+Plugin 'sdanielf/vim-stdtabs' " Identation
+Plugin 'SirVer/ultisnips' " Ultimate solution for snippets in Vim
+Plugin 'honza/vim-snippets' " Snippets to work with SirVer/utisnips plugin
 
 " Python
 Plugin 'nvie/vim-flake8' " Python PEP8 Checker
 
 " Ruby
-Plugin 'ngmy/vim-rubocop' " Rubocop style guide based
+Plugin 'ngmy/vim-rubocop' " Rubocop style guide based checker
 
 call vundle#end()
 
