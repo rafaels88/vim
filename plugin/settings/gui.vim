@@ -1,32 +1,14 @@
-colorscheme wombat
+set number " Show row number
+set nowrap " Rows just continue along without break the line
+set guioptions+=b " Show horizonal scroll bar
+set guioptions-=m " Removes menubar
+set guioptions-=T " Removes toolbar
 
-set number
-set autoindent
-" set ts=4 "Seta o tab para 4 espaços
-" set shiftwidth=4 "Seta o tab para 4 espaços
-" set tabstop=4
-set expandtab
-set smarttab
-set nowrap
-set guioptions+=b
-set guioptions-=m
-set guioptions-=T
-set backspace=indent,eol,start
-set laststatus=2
-set statusline=%F%m%r%h%w\%=[L:\%l\ C:\%c\ A:\%b\ H:\x%B\ P:\%p%%]
-set incsearch
-set hlsearch
-
-set foldmethod=indent
-set foldlevel=99
-
-" Hightlight current line
-:set cursorline
-:set cursorcolumn
-:hi Cursorline ctermbg=Black guibg=#000
-:hi Cursorcolumn ctermbg=Black guibg=#222
-" Hightlight search
-:set hls
+" Hightlight current line and column
+set cursorline
+set cursorcolumn
+hi Cursorline ctermbg=Black guibg=#000
+hi Cursorcolumn ctermbg=Black guibg=#222
 
 " Useful aliases to close the editor
 cab W w| cab Q q| cab Wq wq| cab wQ wq| cab WQ wq| cab X x| cab Wqw wq| cab wqw wq | cab Bn bn | cab Bp bp | cab Bd bd
