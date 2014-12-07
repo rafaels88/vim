@@ -19,6 +19,7 @@ Plugin 'bling/vim-airline' " Beautiful statusbar
 Plugin 'tpope/vim-fugitive' " a Git wrapper so awesome, it should be illegal
 Plugin 'sjl/gundo.vim' " visualize the undolist tree
 Plugin 'terryma/vim-multiple-cursors' " ctrl+d Sublime text selection for VIM
+Plugin 'Lokaltog/vim-easymotion' " Beautify all vim motions
 
 " All languages
 Plugin 'sheerun/vim-polyglot' " Syntax checker
