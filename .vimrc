@@ -18,6 +18,7 @@ Plugin 'kien/ctrlp.vim' " ctrl+p file finder
 Plugin 'bling/vim-airline' " Beautiful statusbar
 Plugin 'tpope/vim-fugitive' " a Git wrapper so awesome, it should be illegal
 Plugin 'sjl/gundo.vim' " visualize the undolist tree
+Plugin 'terryma/vim-multiple-cursors' " ctrl+d Sublime text selection for VIM
 
 " Languages
 Plugin 'sheerun/vim-polyglot' " All syntax checker
