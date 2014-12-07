@@ -17,14 +17,19 @@ Plugin 'jiangmiao/auto-pairs' " Auto pair quotes and parenteses
 Plugin 'kien/ctrlp.vim' " ctrl+p file finder
 Plugin 'bling/vim-airline' " Beautiful statusbar
 Plugin 'tpope/vim-fugitive' " a Git wrapper so awesome, it should be illegal
+Plugin 'sjl/gundo.vim' " visualize the undolist tree
 
 " Languages
-Plugin 'sheerun/vim-polyglot' " All Languages checker
-Plugin 'scrooloose/syntastic' " Syntax Checker for All languages putting sidebar errors
-Plugin 'sdanielf/vim-stdtabs' " All Languages identation
+Plugin 'sheerun/vim-polyglot' " All syntax checker
+Plugin 'scrooloose/syntastic' " All languages checker and sidebar errors
+Plugin 'sdanielf/vim-stdtabs' " All languages identation
 
 " Python
 Plugin 'nvie/vim-flake8' " Python PEP8 Checker
+
+" Ruby
+Plugin 'ngmy/vim-rubocop' " Rubocop style guide based
+
 call vundle#end()
 
 syntax on
