@@ -20,6 +20,8 @@ Plugin 'tpope/vim-fugitive' " a Git wrapper so awesome, it should be illegal
 Plugin 'sjl/gundo.vim' " visualize the undolist tree
 Plugin 'terryma/vim-multiple-cursors' " ctrl+d Sublime text selection for VIM
 Plugin 'Lokaltog/vim-easymotion' " Beautify all vim motions
+Plugin 'ntpeters/vim-better-whitespace' " Highlight trailing spaces
+Plugin 'gorkunov/smartpairs.vim' " searches first unpair symbol from the left of the current cursor
 
 " All languages
 Plugin 'sheerun/vim-polyglot' " Syntax checker
