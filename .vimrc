@@ -20,8 +20,8 @@ Plugin 'tpope/vim-fugitive' " a Git wrapper so awesome, it should be illegal
 Plugin 'sjl/gundo.vim' " visualize the undolist tree
 Plugin 'terryma/vim-multiple-cursors' " ctrl+d Sublime text selection for VIM
 Plugin 'Lokaltog/vim-easymotion' " Beautify all vim motions
-Plugin 'ntpeters/vim-better-whitespace' " Highlight trailing spaces
-Plugin 'gorkunov/smartpairs.vim' " searches first unpair symbol from the left of the current cursor
+Plugin 'ntpeters/vim-better-whitespace' " Highlights trailing spaces
+Plugin 'gorkunov/smartpairs.vim' " 'viv' command selects all content between first symbol from the left until its pair from the right
 
 " All languages
 Plugin 'sheerun/vim-polyglot' " Syntax checker
@@ -29,6 +29,7 @@ Plugin 'scrooloose/syntastic' " Checker with sidebar errors
 Plugin 'sdanielf/vim-stdtabs' " Identation
 Plugin 'SirVer/ultisnips' " Ultimate solution for snippets in Vim
 Plugin 'honza/vim-snippets' " Snippets to work with SirVer/utisnips plugin
+Plugin 'scrooloose/nerdcommenter' " Incredible code commenter
 
 " Python
 Plugin 'nvie/vim-flake8' " Python PEP8 Checker
