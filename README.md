@@ -48,3 +48,12 @@ All custom settings are in seaparate files in ```plugin/settings``` folder.
 #### To install more plugins
 
 Just add another line in .vimrc file.
+
+
+ - For AG (the silver search) Plugin, you must install AG itself.
+
+ ``` brew install the_silver_searcher ```
+
+ or others
+
+ https://github.com/ggreer/the_silver_searcher

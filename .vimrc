@@ -22,6 +22,7 @@ Plugin 'terryma/vim-multiple-cursors' " ctrl+d Sublime text selection for VIM
 Plugin 'Lokaltog/vim-easymotion' " Beautify all vim motions
 Plugin 'ntpeters/vim-better-whitespace' " Highlights trailing spaces
 Plugin 'gorkunov/smartpairs.vim' " 'viv' command selects all content between first symbol from the left until its pair from the right
+Plugin 'rking/ag.vim'
 
 " All languages
 Plugin 'sheerun/vim-polyglot' " Syntax checker
