@@ -57,3 +57,8 @@ Just add another line in .vimrc file.
  or others
 
  https://github.com/ggreer/the_silver_searcher
+
+#### Font
+
+The font used is Source Code Pro. So, if you don't have this installed, you need to do it first:
+https://github.com/adobe-fonts/source-code-pro
