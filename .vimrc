@@ -37,6 +37,7 @@ Plugin 'nvie/vim-flake8' " Python PEP8 Checker
 
 " Ruby
 Plugin 'ngmy/vim-rubocop' " Rubocop style guide based checker
+Plugin 'tpope/vim-rvm' " RVM + VIM
 
 call vundle#end()
 
