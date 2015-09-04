@@ -62,3 +62,9 @@ Just add another line in .vimrc file.
 
 The font used is Source Code Pro. So, if you don't have this installed, you need to do it first:
 https://github.com/adobe-fonts/source-code-pro
+
+- Linux instructions
+1) Download font's source to ~/.fonts
+2) Untar file in ~/.fonts
+3) sudo ln -s ~/.fonts/[font_directory_name] /usr/share/fonts/fontfiles
+4) sudo fc-cache -fv
