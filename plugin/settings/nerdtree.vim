@@ -2,4 +2,4 @@
 let mapleader = ","
 let g:mapleader = ","
 map <Leader>, :NERDTreeToggle<cr>
-let NERDTreeIgnore = ['\.pyc$']
+let NERDTreeIgnore = ['\.pyc$', '__pycache__']
