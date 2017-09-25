@@ -28,7 +28,6 @@ Plugin 'rking/ag.vim' " In file text search
 Plugin 'sheerun/vim-polyglot' " Syntax checker
 Plugin 'scrooloose/syntastic' " Checker with sidebar errors
 Plugin 'sdanielf/vim-stdtabs' " Identation
-Plugin 'SirVer/ultisnips' " Ultimate solution for snippets in Vim
 Plugin 'honza/vim-snippets' " Snippets to work with SirVer/utisnips plugin
 Plugin 'scrooloose/nerdcommenter' " Incredible code commenter
 
@@ -38,6 +37,9 @@ Plugin 'nvie/vim-flake8' " Python PEP8 Checker
 " Ruby
 Plugin 'ngmy/vim-rubocop' " Rubocop style guide based checker
 Plugin 'tpope/vim-rvm' " RVM + VIM
+
+" Elixir
+Plugin 'elixir-editors/vim-elixir' " Elixir syntax, identation and file type
 
 call vundle#end()
 
