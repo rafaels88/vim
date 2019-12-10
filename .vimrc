@@ -32,7 +32,6 @@ Plugin 'honza/vim-snippets' " Snippets to work with SirVer/utisnips plugin
 Plugin 'scrooloose/nerdcommenter' " Incredible code commenter
 
 " Python
-Plugin 'nvie/vim-flake8' " Python PEP8 Checker
 
 " Ruby
 Plugin 'ngmy/vim-rubocop' " Rubocop style guide based checker
