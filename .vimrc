@@ -40,6 +40,9 @@ Plugin 'tpope/vim-rvm' " RVM + VIM
 " Elixir
 Plugin 'elixir-editors/vim-elixir' " Elixir syntax, identation and file type
 
+" Javascript
+Plugin 'leafgarland/typescript-vim.git' " Typescript
+
 call vundle#end()
 
 syntax on
