@@ -27,7 +27,7 @@ Plugin 'rking/ag.vim' " In file text search
 " All languages
 Plugin 'sheerun/vim-polyglot' " Syntax checker
 Plugin 'scrooloose/syntastic' " Checker with sidebar errors
-Plugin 'sdanielf/vim-stdtabs' " Identation
+Plugin 'rafaels88/vim-stdtabs' " Identation
 Plugin 'honza/vim-snippets' " Snippets to work with SirVer/utisnips plugin
 Plugin 'scrooloose/nerdcommenter' " Incredible code commenter
 
