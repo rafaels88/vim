@@ -1,3 +1,3 @@
 " Files to ignore
-set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.pyc     " MacOSX/Linux
-set wildignore+=*\\tmp\\*,*.swp,*.zip,*.exe,*pyc  " Windows
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.pyc,*/node_modules*     " MacOSX/Linux
+set wildignore+=*\\tmp\\*,*.swp,*.zip,*.exe,*pyc,*/node_modules*  " Windows

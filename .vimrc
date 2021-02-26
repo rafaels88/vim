@@ -30,8 +30,7 @@ Plugin 'scrooloose/syntastic' " Checker with sidebar errors
 Plugin 'rafaels88/vim-stdtabs' " Identation
 Plugin 'honza/vim-snippets' " Snippets to work with SirVer/utisnips plugin
 Plugin 'scrooloose/nerdcommenter' " Incredible code commenter
-
-" Python
+Plugin 'pechorin/any-jump.vim' " Vim code inspection plugin for finding defitinitions
 
 " Ruby
 Plugin 'ngmy/vim-rubocop' " Rubocop style guide based checker
